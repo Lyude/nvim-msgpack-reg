@@ -1,0 +1,8 @@
+[package]
+name = "neovim-msgpack-reg"
+version = "69.69.69"
+authors = [
+    "Lyude Paul <thatslyude@gmail.com>"
+]
+license = "GPLv3"
+edition = "2021"
